@@ -1,0 +1,13 @@
+C:\Users\marco\Developer\Projetos\Justax\APIs\TicketsAPI\TicketsAPI\TicketsAPI.Data\bin\Debug\netcoreapp3.1\TicketsAPI.Data.deps.json
+C:\Users\marco\Developer\Projetos\Justax\APIs\TicketsAPI\TicketsAPI\TicketsAPI.Data\bin\Debug\netcoreapp3.1\TicketsAPI.Data.dll
+C:\Users\marco\Developer\Projetos\Justax\APIs\TicketsAPI\TicketsAPI\TicketsAPI.Data\bin\Debug\netcoreapp3.1\TicketsAPI.Data.pdb
+C:\Users\marco\Developer\Projetos\Justax\APIs\TicketsAPI\TicketsAPI\TicketsAPI.Data\bin\Debug\netcoreapp3.1\TicketsAPI.Domain.dll
+C:\Users\marco\Developer\Projetos\Justax\APIs\TicketsAPI\TicketsAPI\TicketsAPI.Data\bin\Debug\netcoreapp3.1\TicketsAPI.Domain.pdb
+C:\Users\marco\Developer\Projetos\Justax\APIs\TicketsAPI\TicketsAPI\TicketsAPI.Data\obj\Debug\netcoreapp3.1\TicketsAPI.Data.csproj.AssemblyReference.cache
+C:\Users\marco\Developer\Projetos\Justax\APIs\TicketsAPI\TicketsAPI\TicketsAPI.Data\obj\Debug\netcoreapp3.1\TicketsAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Developer\Projetos\Justax\APIs\TicketsAPI\TicketsAPI\TicketsAPI.Data\obj\Debug\netcoreapp3.1\TicketsAPI.Data.AssemblyInfoInputs.cache
+C:\Users\marco\Developer\Projetos\Justax\APIs\TicketsAPI\TicketsAPI\TicketsAPI.Data\obj\Debug\netcoreapp3.1\TicketsAPI.Data.AssemblyInfo.cs
+C:\Users\marco\Developer\Projetos\Justax\APIs\TicketsAPI\TicketsAPI\TicketsAPI.Data\obj\Debug\netcoreapp3.1\TicketsAPI.Data.csproj.CoreCompileInputs.cache
+C:\Users\marco\Developer\Projetos\Justax\APIs\TicketsAPI\TicketsAPI\TicketsAPI.Data\obj\Debug\netcoreapp3.1\TicketsAPI.Data.csproj.CopyComplete
+C:\Users\marco\Developer\Projetos\Justax\APIs\TicketsAPI\TicketsAPI\TicketsAPI.Data\obj\Debug\netcoreapp3.1\TicketsAPI.Data.dll
+C:\Users\marco\Developer\Projetos\Justax\APIs\TicketsAPI\TicketsAPI\TicketsAPI.Data\obj\Debug\netcoreapp3.1\TicketsAPI.Data.pdb

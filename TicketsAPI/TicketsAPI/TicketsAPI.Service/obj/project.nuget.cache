@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tc1XQ0UlF5QOcfxVPFQ4PCI/+HWTA+TJOgTFUvLBFhv1Og8I8+qVPhkjxFC4po06szCcH4eg6IoD1Wx86FjEjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marco\\Developer\\Projetos\\Justax\\APIs\\TicketsAPI\\TicketsAPI\\TicketsAPI.Service\\TicketsAPI.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marco\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
